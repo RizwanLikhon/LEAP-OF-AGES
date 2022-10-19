@@ -25,3 +25,20 @@ Jump -Space
 Walk - Right Shift
 Attack - Q or mouse left click
 Crouch - C
+
+
+Skills I have gained:
+                     1. Learned to make project with Unity engine
+                     2. Learned to apply C# programming language in the actual project in Unity.
+
+Things I have learned:
+                      1. Rigidbody 
+                      2. BoxCollider
+                      3. Animator
+                      4. Animation
+                      5. C# Scripts
+                      6. Canvas
+                      7. Gizmos
+                      8. Sprites
+                      9. Offset,Scale
+                      10. UI (Text,slider,Image,scrollbar,button)
